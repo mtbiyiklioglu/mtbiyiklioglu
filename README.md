@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on a Discord Bot with Node Js!
+- 🔭 I’m currently working on Node JS, MongoDB!
 
 ### Connect with me:
 
